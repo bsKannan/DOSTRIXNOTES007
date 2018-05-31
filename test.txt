@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPF
 
 
 https://steemit.com/eos/@ukarlsson/eos-contracts-development-with-the-clion-ide
+
+https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c
