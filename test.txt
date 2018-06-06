@@ -12,3 +12,14 @@ https://steemit.com/eos/@ukarlsson/eos-contracts-development-with-the-clion-ide
 
 https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c
 https://github.com/EOSIO/eos/issues/809
+
+
+
+https://github.com/learnforpractice/pyeos#pyeosapioverview
+
+
+https://tbfleming.github.io/cib/eos.html
+
+https://github.com/Nadejde/eos-token-sale.
+
+https://github.com/Netherdrake/py-eos-api
