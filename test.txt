@@ -23,3 +23,10 @@ https://tbfleming.github.io/cib/eos.html
 https://github.com/Nadejde/eos-token-sale.
 
 https://github.com/Netherdrake/py-eos-api
+
+
+
+
+appli:
+https://dzone.com/articles/the-modern-application-stack-part-1-introducing-th
+http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-2-server-side/
