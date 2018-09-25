@@ -53,3 +53,8 @@ https://rubikscode.net/2017/10/09/mean-stack-crash-course-using-mongodb-with-nod
 
 
 https://medium.com/@parthkamaria/building-a-chat-app-with-mean-stack-and-socket-io-c73b012b9fc9
+
+
+https://colorlib.com/wp/?s=shopping
+
+https://wordpress.org/plugins/wordpress-simple-paypal-shopping-cart/
