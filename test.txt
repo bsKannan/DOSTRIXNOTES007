@@ -30,3 +30,26 @@ https://github.com/Netherdrake/py-eos-api
 appli:
 https://dzone.com/articles/the-modern-application-stack-part-1-introducing-th
 http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-2-server-side/
+
+
+
+socket:
+
+https://pusher.com/tutorials/angular-realtime/
+
+https://medium.com/oril/spring-boot-websockets-angular-5-f2f4b1c14cee
+
+
+
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+
+https://medium.com/factory-mind/angular-websocket-node-31f421c753ff(importent)
+
+https://www.djamware.com/post/58e0d15280aca75cdc948e4e/building-chat-application-using-mean-stack-angular-4-and-socketio  (process)
+
+
+
+https://rubikscode.net/2017/10/09/mean-stack-crash-course-using-mongodb-with-node-js-express-and-angular-4/
+
+
+https://medium.com/@parthkamaria/building-a-chat-app-with-mean-stack-and-socket-io-c73b012b9fc9
