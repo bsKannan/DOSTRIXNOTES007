@@ -58,3 +58,7 @@ https://medium.com/@parthkamaria/building-a-chat-app-with-mean-stack-and-socket-
 https://colorlib.com/wp/?s=shopping
 
 https://wordpress.org/plugins/wordpress-simple-paypal-shopping-cart/
+
+
+
+https://www.codeproject.com/Articles/1185294/Build-Modern-App-with-MEAN-Stack-Part
